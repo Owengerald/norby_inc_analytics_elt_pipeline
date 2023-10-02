@@ -199,12 +199,6 @@ plaintext
 
 │   ├── execute_sql_script_files.py
 
-│   ├── config.py
-
-│   ├── config2.py
-
-│   ├── config_tr.py
-
 ├── sql_scripts/
 
 │   ├── agg_public_holiday.sql
