@@ -207,17 +207,15 @@ plaintext
 
 │   ├── agg_best_performing_product.sql
 
-├── config_templates
-
-│   ├── config_template.py
-
-│   ├── config2_template.py
-
-│   ├── config_tr_template.py
-
 ├── .gitignore
 
 ├── README.md
+
+├── config_template.py
+
+├── config2_template.py
+
+├── config_tr_template.py
 
 └── requirements.txt
 ```
