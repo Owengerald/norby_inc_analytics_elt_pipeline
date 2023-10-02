@@ -137,7 +137,7 @@ git clone https://github.com/Owengerald/norby_inc_analytics_elt_pipeline.git
 
 bash
 ```
-cd your-repo
+cd norby_inc_analytics_elt_pipeline
 ```
 
 3. Install the required Python packages:
