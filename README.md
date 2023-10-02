@@ -211,9 +211,9 @@ plaintext
 
 ├── README.md
 
-├── config_template.py
-
 ├── config2_template.py
+
+├── config_template.py
 
 ├── config_tr_template.py
 
