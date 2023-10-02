@@ -1,0 +1,6 @@
+.\python_scripts\config
+.\python_scripts\config2
+.\python_scripts\config_tr
+__pycache__/
+.ipynb_checkpoints/
+.\python_scripts\__pycache__
